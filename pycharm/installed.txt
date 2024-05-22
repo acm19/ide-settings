@@ -1,0 +1,11 @@
+AWSCloudFormation
+ru.sadv1r.ansible-vault-editor-idea-plugin
+org.intellij.plugins.hcl
+com.vecheslav.darculaSolidTheme
+com.jetbrains.space
+name.kropp.intellij.makefile
+com.intellij.plugins.netbeanskeymap
+com.intellij.mermaid
+org.asciidoctor.intellij.asciidoc
+com.leinardi.pycharm.mypy
+com.github.copilot

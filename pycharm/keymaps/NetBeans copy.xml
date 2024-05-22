@@ -1,0 +1,55 @@
+<keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
+  <action id="DatabaseView.CopyDdlAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
+  </action>
+  <action id="DatabaseView.DataSourcePasteAction">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="EditorPaste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="EditorPasteFromX11">
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="shift insert" />
+  </action>
+  <action id="Git.Add">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
+  <action id="GotoSymbol" />
+  <action id="GotoTest" />
+  <action id="Images.Thumbnails.Hide" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="ServiceView.ShowServices" />
+  <action id="Terminal.CloseTab">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+  </action>
+  <action id="Terminal.Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="UsageFiltering.WriteAccess" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
+  <action id="ru.sadv1r.idea.plugin.ansible.vault.editor.VaultModifyAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
+  </action>
+</keymap>
